@@ -2,7 +2,7 @@
 
 - 👋 Hi! My name is Anum Damani.
 - ⚡ I recently earned my Bachelor of Science degree in Statistics & Data Science from UC Santa Barbara.
-- 🌱 I'm interested in data analytics, data visualization, and machine learning.
+- 🌱 I'm interested in data analytics and machine learning.
 - 📫 You can reach me via email at anumdamani@gmail.com or LinkedIn: https://www.linkedin.com/in/anumdamani/
 
 
