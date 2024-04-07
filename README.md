@@ -1,7 +1,7 @@
 ### 
 
 - 👋 Hi! My name is Anum Damani.
-- 🐻 I am pursuing a Master of Applied Statistics & Data Science at UCLA. Go Bruins!
+- 🐻 I am pursuing a Master of Applied Statistics & Data Science degree at UCLA.
 - 🌊 I earned my Bachelor of Science degree in Statistics & Data Science from UC Santa Barbara.
 - 🌱 I'm interested in data analytics and machine learning.
 - 😃 Fun fact: In my free time, I love to read and paint.
