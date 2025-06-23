@@ -3,7 +3,7 @@
 - 👋 Hi! My name is Anum Damani.
 - 🐻 I earned my Master's degree in Applied Statistics & Data Science degree from UCLA.
 - 🌊 I earned my Bachelor of Science degree in Statistics & Data Science from UC Santa Barbara.
-- 🌱 I'm interested in advanced data analytics and machine learning.
+- 🌱 I'm interested in data analytics and machine learning.
 - 😃 Fun fact: In my free time, I love to read and play tennis!
 - 📫 You can reach me via email at anumdamani@gmail.com or LinkedIn: https://www.linkedin.com/in/anumdamani/
 
